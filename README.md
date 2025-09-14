@@ -1,29 +1,50 @@
-<<<<<<< HEAD
+# 🎯 ClassifyX – AI Image Classifier
 
-=======
-``````
->>>>>>> dec2be9f58c13b2af4f4fcbecec08e54bce2139a
-
-# ClassifyX 🎯
-
-An Image Recognition & Vision project built with **Streamlit**, **OpenCV**, **Transformers**, and **PyTorch**.  
-Includes speech output using `pyttsx3`.
+ClassifyX is a **Streamlit-based AI web app** that classifies uploaded images into different categories using a deep learning model.  
+It provides an **easy-to-use interface** with real-time predictions and speech output for accessibility.
 
 ---
+
+## 🚀 Demo
+
+👉 [Click here to run the app](https://classify-x.streamlit.app/)  
+
+<p align="center">
+  <img src="a1.png" alt="App Screenshot" width="600"/>
+</p>
+<p align="center">
+  <img src="a2.png" alt="App Screenshot" width="600"/>
+</p>
+---
+
+## 📦 Installation
+
+Clone this repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/Advanced-CV-Demo.git
+cd Advanced-CV-Demo
+pip install -r requirements.txt
+
 
 ## 🚀 Features
-- Upload an image and run classification
-- Uses Hugging Face `transformers` pipeline
-- Real-time image processing with OpenCV
-- Text-to-speech feedback (`pyttsx3`)
-- Streamlit UI for easy interaction
+- 📂 Upload an image and get instant predictions  
+- 🧠 Uses a pre-trained AI model for classification  
+- 🔊 Text-to-Speech (TTS) support for reading predictions aloud  
+- 🌐 Runs directly in your browser with Streamlit  
 
 ---
 
-## ⚙️ Installation
+## 🖼️ Screenshot
+![ClassifyX Screenshot](https://via.placeholder.com/800x400.png?text=ClassifyX+App+Preview)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/ClassifyX.git
-   cd ClassifyX
+---
 
+## 🛠️ Installation
+
+Clone this repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/classifyx.git
+cd classifyx
+pip install -r requirements.txt
