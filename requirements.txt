@@ -6,3 +6,4 @@ Pillow
 transformers
 torch
 pyttsx3
+urllib3==2.0.4
