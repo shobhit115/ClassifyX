@@ -1,3 +1,4 @@
+import cv2
 import os
 import io
 import time
@@ -7,7 +8,7 @@ import json
 from typing import List, Tuple, Optional, Dict, Any
 from datetime import datetime
 import streamlit as st
-import cv2
+
 import numpy as np
 
 import requests
