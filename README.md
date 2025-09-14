@@ -7,7 +7,7 @@ It provides an **easy-to-use interface** with real-time predictions and speech o
 
 ## 🚀 Demo
 
-👉 [Click here to run the app](https://classifyx.streamlit.app/)  
+👉 [Click here to run the app](https://classify-x.streamlit.app/)  
 
 <p align="center">
   <img src="a1.png" alt="App Screenshot" width="600"/>
