@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+``````
+>>>>>>> dec2be9f58c13b2af4f4fcbecec08e54bce2139a
 
 # ClassifyX 🎯
 
